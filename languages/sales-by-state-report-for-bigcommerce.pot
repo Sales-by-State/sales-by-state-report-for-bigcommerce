@@ -20,7 +20,6 @@ msgid "Sales by State Report for BigCommerce"
 msgstr ""
 
 #. Plugin URI of the plugin
-#. Author URI of the plugin
 #: sales-by-state-report-for-bigcommerce.php
 msgid "https://salesbystate.com/"
 msgstr ""
@@ -33,6 +32,11 @@ msgstr ""
 #. Author of the plugin
 #: sales-by-state-report-for-bigcommerce.php
 msgid "Rodolfo Melogli"
+msgstr ""
+
+#. Author URI of the plugin
+#: sales-by-state-report-for-bigcommerce.php
+msgid "https://www.businessbloomer.com/"
 msgstr ""
 
 #: sales-by-state-report-for-bigcommerce.php:61
